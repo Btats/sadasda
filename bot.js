@@ -4,9 +4,16 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("credit spam by ialialyh af af af7 credit spam spam crdtit ف اف ءح ءح ءح كريدت كريدت")
+let channel =     client.channels.get("535973904053698570")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+Credit spam by ilahi af af a7 232 credit spam
+`);
 }, 30)
 })
 
